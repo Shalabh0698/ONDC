@@ -1,0 +1,4 @@
+Objective: This project is regarding following points:
+1. Data Extraction from AWS Athena.
+2. Data Transformations in Python Script.
+3. Data Load in Google Sheet.
